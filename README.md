@@ -31,5 +31,7 @@ Implemented a password machine with the following successful sequence:
 ## Video
 
 ### Successful
+[HW11_02.webm](https://github.com/DM-GY-6063-2023F-D/HW11/assets/850815/970974f7-753b-44df-ab50-64a394122173)
 
 ### Fail
+[HW11_03.webm](https://github.com/DM-GY-6063-2023F-D/HW11/assets/850815/f073bd27-169e-45af-8625-3bd4a63029b3)
