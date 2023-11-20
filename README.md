@@ -30,3 +30,6 @@ Implemented a password machine with the following successful sequence:
 
 ## Video
 
+### Successful
+
+### Fail
